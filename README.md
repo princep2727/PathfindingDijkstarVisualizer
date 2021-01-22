@@ -1,3 +1,3 @@
 # PathfindingVisualizer
-## algorithm is dijkstar(prim's algorithm)
+## Algorithm is Dijkstra
 ## React is used to launch this project
